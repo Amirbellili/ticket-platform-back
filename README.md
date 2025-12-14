@@ -1,6 +1,6 @@
 
 ---
-📍 `myapp-backend/README.md`
+📍 `ticket-platform-back/README.md`
 
 ```md
 # 🎫 Ticket Platform – Backend
